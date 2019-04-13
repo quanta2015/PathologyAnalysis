@@ -1,3 +1,4 @@
 # Project Specific
 node_modules/
 detail/
+.DS_Store
